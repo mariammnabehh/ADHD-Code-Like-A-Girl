@@ -2,6 +2,11 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.social-icons a {
+  color: #000;
+  font-size: 20px;
+}
+
 /* Navbar */
 nav {
   background: rgb(2, 0, 36);
